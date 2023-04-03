@@ -1,2 +1,2 @@
 # portfolio
-My portfolio from completed css html and js
+My portfolio from complete css html and js
