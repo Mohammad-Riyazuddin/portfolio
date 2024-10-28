@@ -94,6 +94,7 @@ header {
     justify-content: center;
     flex-flow: column;
     text-align: center;
+    border-right: .5rem solid rgb(13, 121, 15);
 }
 
 header .user img {
